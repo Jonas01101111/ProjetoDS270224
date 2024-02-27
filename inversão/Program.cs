@@ -16,7 +16,7 @@ namespace inversão //inversão de variaveis
             Console.WriteLine("valor b:");
             int b = int.Parse(Console.ReadLine());
 
-            
+
             int ib = a;
             a = b;
             b = ib;
